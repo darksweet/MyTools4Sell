@@ -1,17 +1,19 @@
 # MyTools4Sell
 
 ## 3d Printer
-![image](https://github.com/darksweet/MyTools4Sell/tree/main/ToolsImages/Cables_b.jpeg) 
+![3DPrinter_a](ToolsImages/Printer_a.jpeg) 
 #### Anycubic Vyper 
 #### Autolevel bagnetic printbed 
 #### With original Packaging and spare parts
 #### With half spool Anycubic gray PLA
 
 ## Kinect V2
+![Kinect_v2](ToolsImages/KinectV2_a.jpeg)
 #### with developer kit
 #### with original packaging
 
 ## Behringer Neutron
+![Neutron]()
 #### vinyl wraped in white. Can be removed. Machine underneath is in perfect condition.
 #### one original white patch cable is missing. replaced with a third party cable
 #### with original packaging including patch cable, power adapter, eurorack power cable, User mabual, Behringer sticker
