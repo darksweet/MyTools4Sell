@@ -1,10 +1,8 @@
-<head></head>
-
 # MyTools4Sell
 ---
 ## 3d Printer
 <div>
-    <img src="ToolsImages/Printer_a.jpeg" class="toolImage_a" id="printer_a" width="200">
+    <img src="ToolsImages/Printer_a.jpeg"  class="toolImage_a" id="printer_a" width="200">
 </div>
 
 #### Anycubic Vyper 
@@ -27,7 +25,7 @@
 <div>
     <img src="ToolsImages/Neutron_front.jpeg" width="200" alt="neutron_front">
     <img src="ToolsImages/Neutron_side.jpeg" width="200" alt="neutron_side">
-    <img src="ToolsImages/Cables_a.jpeg" width="200" alt="cables">
+    <img src="ToolsImages/Cables_a.jpeg" width="100" alt="cables">
 </div>
 
 1. vinyl wraped in white. Can be perminently removed to reveal the original red panel. Panel underneath the wrap is in perfect condition. You can also just remove the colored tags I added to make it look even simpler.
