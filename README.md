@@ -29,7 +29,7 @@
 2. with original packaging
 ---
 
-## ~~Behringer Neutron €200~~ Reserved
+## Behringer Neutron €200
 <div><a href="https://www.behringer.com/product.html?modelCode=P0CM5">Click here to product page</a></div>
 <div>
     <img src="ToolsImages/Neutron_front.jpeg" width="200" alt="neutron_front">
@@ -43,7 +43,7 @@
 4. I wrapped it in white because I don't like the original design. The leds could shine through the wrap in darkroom so I didn't bother making tiny holes for it.
 ---
 
-## Beatstep pro €220
+## ~~Beatstep pro €220~~ Reserved
 <div>
 <a href="https://www.arturia.com/products/hybrid-synths/beatstep-pro/overview">Click here to product page</a></div>
 <div>
