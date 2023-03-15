@@ -1,7 +1,8 @@
 # MyTools4Sell
-### Location: Vorstr Bremen(Near Uni Bremen Campus)
-### I bring the stuff to your place, if yours is close.
-### Please feel free to contact me via slack.
+### My Location: Vorstr Bremen(Near Uni Bremen Campus)
+### I can bring the stuff to your place, if yours is close.
+### If possible please pay with cash or via Paypal(Only friends/family transfer).
+### Please feel free to contact me via Slack.
 ---
 ## 3d Printer €220
 <div>
