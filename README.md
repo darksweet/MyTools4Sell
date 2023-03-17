@@ -4,7 +4,7 @@
 ### If possible please pay with cash or via Paypal(Only friends/family transfer).
 ### Please feel free to contact me via Slack and email(hlin@hfk-bremen.de).
 ---
-## 3d Printer €220
+## 3d Printer €196
 <div>
     <img src="ToolsImages/Printer_a.jpeg"  class="toolImage_a" id="printer_a" width="200">
 </div>
@@ -20,7 +20,7 @@
 7. I can help you with the installing of this printer.
 ---
 
-## Kinect V2 with dev kit €56
+## Kinect V2 with dev kit €50
 <div>
     <img src="ToolsImages/KinectV2_a.jpeg"  class="toolImage_a" width="200" >
     <img src="ToolsImages/Kinect_boxes.jpeg"  class="toolImage_a" width="200" >
@@ -45,7 +45,7 @@
 4. I wrapped it in white because I don't like the original design. The leds could shine through the wrap in darkroom so I didn't bother making tiny holes for it.
 ---
 
-## ~~Beatstep pro €220~~ Reserved
+## ~~Beatstep pro €220~~ Sold
 <div>
 <a href="https://www.arturia.com/products/hybrid-synths/beatstep-pro/overview">Click here to product page</a></div>
 <div>
@@ -59,7 +59,7 @@
 ---
 
 
-## HP Desktop PC （With free monitor and keyboard） €16
+## HP Desktop PC （With free monitor and keyboard） €15
 <div>
     <img src="ToolsImages/Computer_a.jpeg" width="240" alt="pc_a">
     <img src="ToolsImages/HPCompaq_tags.jpg" width="240" alt="pc_b">
@@ -78,7 +78,7 @@
 9. The screen's color is green-ish on the its right side.(As shown in the last image)Its less obvious when showing bright colors.
 --- 
 
-## Simple compact 4 Chanel mixer €15
+## 4 Chanel mixer €12
 <div><a href="https://www.thomann.de/gb/behringer_micromix_mx400.htm">CLick to product page</a></div>
 <div>
     <img src="ToolsImages/4ChannelMixer_a.jpeg" width="200" alt="mixer_a">
