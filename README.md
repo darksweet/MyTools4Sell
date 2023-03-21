@@ -68,14 +68,14 @@
 </div>
 
 1. Normaly pick-up only. It's heavy. I can bring it with me When I go to HFK.
-2. AMD Phenom(tm) II X3 B75 Processor, 3000 MHz 3 Cores
+2. AMD Phenom(tm) II X3 B75 Processor, 3GHz 3Cores
 3. 8GB RAM
 4. 250GB storage
 5. With windows 7 key.
 6. With CD/DVD Drive.
 7. With free monitor 1680 x 1050 (screen has subtle green tint on one side).
-8. With power cable and a usb wifi adapter.
-9. The screen's color is green-ish on the its right side.(As shown in the last image)Its less obvious when showing bright colors.
+8. With power cable.
+9. The screen's color is green-ish on the its right side.(As shown in the last image)Its less obvious when showing bright colors. The power cable of it is missing.
 --- 
 
 ## 4 Chanel mixer €12
