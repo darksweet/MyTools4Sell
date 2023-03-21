@@ -20,7 +20,7 @@
 7. I can help you with the installing of this printer.
 ---
 
-## Kinect V2 with dev kit €50
+## ~~Kinect V2 with dev kit €50~~ SOLD
 <div>
     <img src="ToolsImages/KinectV2_a.jpeg"  class="toolImage_a" width="200" >
     <img src="ToolsImages/Kinect_boxes.jpeg"  class="toolImage_a" width="200" >
@@ -45,7 +45,7 @@
 4. I wrapped it in white because I don't like the original design. The leds could shine through the wrap in darkroom so I didn't bother making tiny holes for it.
 ---
 
-## ~~Beatstep pro €220~~ Sold
+## ~~Beatstep pro €220~~ SOLD
 <div>
 <a href="https://www.arturia.com/products/hybrid-synths/beatstep-pro/overview">Click here to product page</a></div>
 <div>
